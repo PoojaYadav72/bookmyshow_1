@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // mongodb connection url
-const mongoURI = `mongodb+srv://somilvaishya78:Ram123@cluster3.erqy72o.mongodb.net/?retryWrites=true&w=majority`;
+const mongoURI = `mongodb+srv://@cluster3.erqy72o.mongodb.net/?retryWrites=true&w=majority`;
 
 // function to connect the mongodb database
 const connectDb = (server) => {
