@@ -1,4 +1,4 @@
-# Hi, I'm Somil vaishya! 👋
+# Hi, I'm Pooja yadav! 👋
 
 I am Full stack Intern at Almabetter and this is my second project, on Book My Show
 
